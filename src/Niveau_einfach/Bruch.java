@@ -1,3 +1,5 @@
+package Niveau_einfach;
+
 public class Bruch {
     int zaehler;
     int nenner;

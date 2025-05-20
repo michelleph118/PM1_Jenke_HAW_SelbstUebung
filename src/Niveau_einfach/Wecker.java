@@ -1,3 +1,5 @@
+package Niveau_einfach;
+
 public class Wecker {
     private int tag;
     private boolean istUrlaub;
@@ -22,9 +24,9 @@ public class Wecker {
         }
 
         if (uhrzeit.equals("aus")) {
-            System.out.println("Der Wecker ist ausgeschaltet.");
+            System.out.println("Der Niveau_einfach.Wecker ist ausgeschaltet.");
         } else {
-            System.out.println("Der Wecker klingelt um " + uhrzeit);
+            System.out.println("Der Niveau_einfach.Wecker klingelt um " + uhrzeit);
         }
     }
 

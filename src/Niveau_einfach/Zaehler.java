@@ -1,3 +1,5 @@
+package Niveau_einfach;
+
 public class Zaehler {
     int zaehlerstand;
 

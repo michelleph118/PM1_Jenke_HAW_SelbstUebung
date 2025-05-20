@@ -1,3 +1,5 @@
+package Niveau_einfach;
+
 public class Kreis {
     int durchmesser;
     final static double PI = 3.1415;

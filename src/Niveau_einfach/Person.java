@@ -1,3 +1,5 @@
+package Niveau_einfach;
+
 public class Person {
     String name;
     public void setzeName(String name)

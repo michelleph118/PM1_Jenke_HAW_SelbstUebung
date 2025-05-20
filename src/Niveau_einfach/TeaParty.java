@@ -1,6 +1,7 @@
+package Niveau_einfach;
 
-    /**
-     * Die Klasse TeaParty bewertet die Qualität einer Tea Party
+/**
+     * Die Klasse Niveau_einfach.TeaParty bewertet die Qualität einer Tea Party
      * basierend auf der Anzahl von Tee und Keksen.
      *
      * Die Bewertung erfolgt nach folgenden Regeln:
