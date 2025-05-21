@@ -1,18 +1,17 @@
 package Niveau_einfach;
 
-/**
- * Abgerundete Summe
- *
- * Vervollständige die Methode public int abgerundeteSumme(double a, double b), die ihre beiden Parameter addiert und die Summe abgerundet zurück liefert.
- *
- * Hinweis: Abgerundet bedeutet in diesem Kontext, dass der der Wert zur 0 gerundet wird, also Nachkommastellen wegfallen.
- *
- * Beispiel 1: a = 13.37; b = 42.42; Rückgabewert: 55
- * Beispiel 2: a = 3.8; b = 1.5; Rückgabewert: 5
- */
+
 public class ServiceMix
 {
-
+    /*
+    Abgerundete Summe
+    Vervollständige die Methode public int abgerundeteSumme(double a, double b),
+    die ihre beiden Parameter addiert und die Summe abgerundet zurück liefert.
+    Hinweis: Abgerundet bedeutet in diesem Kontext, dass der der Wert zur 0 gerundet wird,
+    also Nachkommastellen wegfallen.
+    Beispiel 1: a = 13.37; b = 42.42; Rückgabewert: 55
+    Beispiel 2: a = 3.8; b = 1.5; Rückgabewert: 5
+     */
     /**
      * Berechnet die abgerundete Summe der beiden Parameter.
      *
